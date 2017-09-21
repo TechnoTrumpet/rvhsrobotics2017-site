@@ -8,3 +8,4 @@ author: null
 ---
 
 <h1>All posts</h1>
+<h2>Cats</h2>
