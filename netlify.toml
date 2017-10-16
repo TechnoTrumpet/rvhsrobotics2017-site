@@ -6,5 +6,5 @@
 [build]
   base    = "site"
   publish = "public"
-  command = "jekyll build"
+  command = "build"
 
