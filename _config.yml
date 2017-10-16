@@ -5,11 +5,11 @@ email: redbankvalleyrobotics@gmail.com
 description: Learn why we are the best team in Pennsylvania.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-author: theMattGreen
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+author: TheMattGreen 
+street_address: 910 Broad
+city: New Bethlehem
+state: PA
+zip_code: 16242
 country: United States of America
 phone: (716) 555-5555
 
